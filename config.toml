@@ -1,4 +1,4 @@
-baseurl = "https://fileclip-cloud.github.io/hugo-demo/"
+baseURL = "https://fileclip-cloud.github.io/hugo-demo/"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
 googleAnalytics = "G-FQL55J4B62"
