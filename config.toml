@@ -1,4 +1,4 @@
-baseURL = https://fileclip-cloud.github.io/hugo-demo/
+baseURL = "https://fileclip-cloud.github.io/hugo-demo/"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
